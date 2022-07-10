@@ -1,0 +1,27 @@
+html,
+body {
+    height: 100%;
+    font-size: 1rem;
+    /* https://fonts.google.com/specimen/Montserrat */
+    font-family: 'Montserrat', sans-serif;
+}
+
+.gradient {
+    /* gradient generator https://cssgradient.io/  */
+    background: rgb(5,13,249);
+    background: linear-gradient(90deg, rgba(5,13,249,0.6979166666666667) 0%, rgba(247,1,1,0.700717787114846) 100%);
+}
+
+.page-header {
+    margin-top: 6.5rem;
+    font-size: 1.25rem;
+    color: #fff;
+}
+
+.clip-path-left {
+    clip-path: polygon(100% 0%, 100% 49%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+}
+
+.clip-path-right {
+    clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+}

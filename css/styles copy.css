@@ -1,0 +1,31 @@
+html,
+body {
+    height: 100%;
+    font-size: 1rem;
+}
+
+
+
+.gradient {
+    background: rgb(223,158,79);
+    background: radial-gradient(circle, rgba(223,158,79,0.49343487394957986) 0%, rgba(223,158,79,0) 97%);
+}
+
+.gradient2 {
+    background: rgb(139,82,55);
+    background: linear-gradient(73deg, rgba(139,82,55,1) 0%, rgba(217,220,211,1) 78%);
+}
+
+.page-header {
+    margin-top: 8rem;
+    font-size: 1.25rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.clip-path-left {
+    clip-path: polygon(100% 0%, 100% 49%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+}
+
+.clip-path-right {
+    clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+}
