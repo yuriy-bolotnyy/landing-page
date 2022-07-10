@@ -25,3 +25,16 @@ body {
 .clip-path-right {
     clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
 }
+
+.feature {
+    color: #fff;
+}
+
+.carousel-caption h5{
+    width: 75%;
+    margin: auto;
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    /* line-height: 1.9; */
+    /* color:rgb(74, 40, 198); */
+}
