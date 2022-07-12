@@ -32,10 +32,10 @@ body {
 }
 
 .carousel-caption h5{
-    /* width: 75%;
+    /* width: 75%; */
     margin: auto;
-    font-size: 1.5rem;
-    font-family: 'Montserrat', sans-serif; */
-    /* line-height: 1.9; */
+    font-size: 1.75rem;
+    font-family: 'Montserrat', sans-serif;
+    /* line-height: 2; */
     /* color:rgb(74, 40, 198); */
 }
