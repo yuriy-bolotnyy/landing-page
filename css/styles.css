@@ -4,6 +4,7 @@ body {
     font-size: 1rem;
     /* https://fonts.google.com/specimen/Montserrat */
     font-family: 'Montserrat', sans-serif;
+    scroll-behavior: smooth;
 }
 
 .gradient {
