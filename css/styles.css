@@ -20,6 +20,7 @@ body {
 }
 
 .clip-path-left {
+    /* https://bennettfeely.com/clippy/ */
     clip-path: polygon(100% 0%, 100% 49%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
 }
 
